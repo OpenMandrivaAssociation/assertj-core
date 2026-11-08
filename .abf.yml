@@ -1,2 +1,4 @@
 sources:
+  assertj-build-3.27.7.tar.gz: af5e8f1cebff4243a6dd0c60e519bb604944b155
+removed_sources:
   assertj-build-3.26.3.tar.gz: 6d01c4d0d405cf26dd5607cc41313a7f854450d7
